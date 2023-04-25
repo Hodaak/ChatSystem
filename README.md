@@ -6,8 +6,6 @@ The project available in this repository is an academic project and is not inten
 
 If you would like to request access to code base and additional materials related to this project, please contact me directly and make your request. Please note that access to any additional materials will be granted solely at my discretion and only for legitimate educational or research purposes.
 
-By accessing the video recording of this project, you acknowledge and agree that you will not use it for any unauthorized or unethical purposes, and that any misuse of the project may result in serious consequences, including academic penalties and disciplinary action.
-
 ## Features
 Multiple clients can connect to the Chat Server, enabling real-time communication between users.
 Secure communication through the reliable TCP/IP protocol.

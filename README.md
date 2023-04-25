@@ -1,6 +1,13 @@
 # Chat System
 This is a chat system that utilizes TCP/IP as its communication protocol, with a WPF solution for the Chat Client and a C# console application for the Chat Server.
 
+## Disclaimer
+The project available in this repository is an academic project and is not intended to be publicly available since it is related to academic coursework, and there is a potential for academic misconduct if it is used improperly. Therefore, only a video recording of the project is available for viewing.
+
+If you would like to request access to code base and additional materials related to this project, please contact me directly and make your request. Please note that access to any additional materials will be granted solely at my discretion and only for legitimate educational or research purposes.
+
+By accessing the video recording of this project, you acknowledge and agree that you will not use it for any unauthorized or unethical purposes, and that any misuse of the project may result in serious consequences, including academic penalties and disciplinary action.
+
 ## Features
 Multiple clients can connect to the Chat Server, enabling real-time communication between users.
 Secure communication through the reliable TCP/IP protocol.
